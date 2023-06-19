@@ -1,11 +1,11 @@
 ### Hi there 👋, Grace Christina Yohanna Situmorang
 #### Software Engineer and Data Analyst Enthusiast
-I'm a bachelor's degree student majoring in Information Systems. I'm enthusiastic about Software Engineering. I thoroughly enjoy learning Design Figma, C and Java, and SQL programming languages through various case studies summarized in my coursework assignments. By applying learning concepts such as data structures, algorithms, object-oriented programming, and database management, I have found great satisfaction in my studies. If you are interested in sharing knowledge and experiences, feel free to join me.
+I'm a bachelor's degree student majoring in Information Systems. I'm enthusiastic about Software Engineering. I thoroughly enjoy learning C and Java, and SQL programming languages through various case studies summarized in my coursework assignments. By applying learning concepts such as data structures, algorithms, object-oriented programming, and database management, I have found great satisfaction in my studies. If you are interested in sharing knowledge and experiences, feel free to join me.
 
 Skills: Communication / Analysis / C / SQL
 
 - 🔭 I’m currently working on several projects and assignments 
-- 🤔 I’m looking for help with Software Engineer, Designer, and Data Analyst 
+- 🤔 I’m looking for help with Software Engineer and Data Analyst 
 - 😄 Pronouns: She/Her 
 
 
