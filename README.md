@@ -1,8 +1,3 @@
-### Hi there 👋, my name is Grace
-
-
-I'm a bachelor's degree student majoring in Information Systems. I'm enthusiastic about Software Engineering. I thoroughly enjoy learning the C and Java programming languages through various case studies summarized in my coursework assignments. By applying learning concepts such as data structures, algorithms, object-oriented programming, and database management, I have found great satisfaction in my studies. If you are interested in sharing knowledge and experiences, feel free to join me.
-
 ### Hi there 👋, Grace Christina Yohanna Situmorang
 #### Software Engineering and Data Analyst Enthusiast
 ![Software Engineering and Data Analyst Enthusiast](https://www.linkedin.com/in/gracechristinays/)
